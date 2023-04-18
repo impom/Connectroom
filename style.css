@@ -1,0 +1,40 @@
+*{
+    font-family: 'Source Serif Pro', serif;
+}
+h1{
+position: fixed;
+font-family: 'Alkatra' , cursive;
+top: 0%;
+font-size: xx-large;
+left: 3%;
+}
+#mode{
+   height: auto;
+   height: 30pt;
+   position: fixed;
+   right: auto;
+   right: 0px;
+   
+}
+#success{
+background-color: rgb(213, 236, 178);
+font-size: x-large;
+color: black;
+text-align: center;
+height: 30px;
+width: 100%;
+opacity: 0;
+position: fixed;
+top: 10%;
+}
+#code{
+    position: fixed;
+    height: auto;
+    height: 45pt;
+    left: 12%;
+    top: 2%;
+}
+#wp{
+    position: absolute;
+    top: 13%;
+}
